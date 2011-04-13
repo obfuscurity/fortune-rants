@@ -1,5 +1,15 @@
-20110412.230500 - Jeramey Crawford on Nagios: "NRPE is pretty stupid, too, but at least it is stupid in ways I can manage."
+20110412.230500 - Jeramey Crawford on Nagios: "NRPE is pretty stupid, too, but at least it is
+                  stupid in ways I can manage."
+
 20110412.174900 - Brandon Burton on Rails: "install, watch screencast, delete, use sinatra"
-20110411.175200 - Jordan Sissel on github: "I clone em or bundler or something to test a bug fix or something, and 2 minutes later my github home is full of pointless crap I don't want"
-20110411.174100 - Jordan Sissel on node.js: "same reasons ruby annoys me a times, but like 10x worse. It's like they steer the API decisions through /dev/random on every minor release"
-20110411.162500 - Jason Dixon on metrics via XML: "if my choice is XML or other, I'll take JSON. then other. then XML."
+
+20110411.175200 - Jordan Sissel on github: "I clone em or bundler or something to test a bug fix
+                  or something, and 2 minute later my github home is full of pointless crap I
+                  don't want"
+
+20110411.174100 - Jordan Sissel on node.js: "same reasons ruby annoys me a times, but like 10x
+                  worse. It's like they steer the API decisions through /dev/random on every
+                  minor release"
+
+20110411.162500 - Jason Dixon on metrics via XML: "if my choice is XML or other, I'll take JSON.
+                  then other. then XML."
